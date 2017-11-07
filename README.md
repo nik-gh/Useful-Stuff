@@ -37,6 +37,7 @@ Web Dev
     - npm
     - Webpack
     - ESLint
+    - Babel
 - Git
 - VSCode
 - UX
