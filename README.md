@@ -14,3 +14,49 @@ Useful stuff that I tend to forget
 ## Node
 
   - `node -p "os.cpus()"`	- podaci o cpu-ovima na kompu
+
+## Web dev skills
+
+Web Dev
+- HTML
+  - Emmet
+- CSS
+  - PostCSS
+- Bootstrap
+- JS
+  - ES6
+  - jQuery
+  - React
+    - React Native
+  - Node.js
+    - Express
+    - EJS
+    - MongoDB
+  - JSON
+  - JS Tools
+    - npm
+    - Webpack
+    - ESLint
+- Git
+- VSCode
+- UX
+- SE
+  - Agile
+    - Scrum
+  - Planning
+  - UML
+- RegEx
+- SQL
+  - MySQL
+- PHP
+  - Laravel
+- Animation
+  - CSS animation
+  - GreenSock
+- Java
+  - Java SE
+  - Java EE
+  
+Game Dev
+- Unity
+- Unreal
