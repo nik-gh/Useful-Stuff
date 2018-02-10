@@ -10,6 +10,7 @@ Useful stuff that I tend to forget
   - `npm outdated -g --depth=0`	- koji su paketi zastareli
   - `npm update -g ionic node-gyp nodemon wanted`	- updejt za globalne sa wanted (not breaking)
   - `npm install -g npm`	- update npm-a
+  - `npm search auth` - pretraga
 
 ## Node
 
