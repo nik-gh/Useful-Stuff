@@ -15,6 +15,7 @@ Useful stuff that I tend to forget
 ## Node
 
   - `node -p "os.cpus()"`	- podaci o cpu-ovima na kompu
+  - `node -p "http.STATUS_CODES"` - svi status kodovi
 
 ## Web dev skills
 
